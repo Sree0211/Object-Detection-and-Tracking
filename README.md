@@ -5,7 +5,7 @@
 This project implements real-time object tracking of a highway scene using OpenCV and displays the results in a Qt GUI. The main features include:
 
 - Object detection using a background subtractor.
-- Display of the original video feed alongside the masked video with detected objects.
+- Displaying the original video feed alongside the masked video with detected objects.
 - Pause and resume functionality for video playback.
 - Progress bar indicating the current frame's position in the video.
 
@@ -13,7 +13,7 @@ This project implements real-time object tracking of a highway scene using OpenC
 
 Before running the project, make sure you have the following dependencies installed:
 
-- Python (version X.X)
+- Python3
 - PyQt5
 - OpenCV
 
